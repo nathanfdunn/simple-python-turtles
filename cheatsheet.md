@@ -1,14 +1,3 @@
-# simple-python-turtles
-A simple introduction to programming using python turtle graphics.
-
-# Trinket
-Try it out yourself at [trinket.io](https://trinket.io/python/c345d81673)!
-
-# Contents
-The Cheatsheet will give you a brief introduction to variables, functions, and loops. It will also teach you about what functions you can use to make a turtle drawing. The `simple_example.py` and `advanced_example.py` files will show how to put them together to draw a picture. You can run this code just by going to the [trinket link](https://trinket.io/python/c345d81673).
-
-# Cheatsheet
-
 ## Variables
 A variable stores a certain value. Like in math, if `x=5`, then `x+2` is 7. You can also store turtle objects in a variable.
 ```python
