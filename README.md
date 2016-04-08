@@ -20,7 +20,7 @@ myTurtle = Turtle()
 ## Functions
 Functions receive 0 or more inputs and perform some operation on them. For instance, the `move` function takes a turtle and a number and makes the turtle move forward by that number of pixels. Functions can also return an output, like the `Turtle` function.
 
-[There are a number of functions that are created for you](README.md#Basic Functions). You can also create your own functions. (The code inside the function needs to be indented with one tab.)
+There are a number of functions that are created for you (see Basic Functions and Advanced Functions). You can also create your own functions. (The code inside the function needs to be indented with one tab.)
 
 ```python
 def myNewFunction(variable1, variable2):
