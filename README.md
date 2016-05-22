@@ -2,6 +2,7 @@
 A simple introduction to programming using python turtle graphics.
 
 # Trinket
+![turtle_drawing](turtle_drawing.png)
 Try it out yourself at [trinket.io](https://trinket.io/python/c345d81673)!
 
 # Contents
