@@ -1,3 +1,10 @@
+## Imports
+You can use code that other people have written by 'importing' it into your own code. To work with the turtles, you only have to worry about the `assets.py` file. Make sure you have the following line at the top of your file and you will be all set.
+```python
+from assets import *
+```
+
+
 ## Variables
 A variable stores a certain value. Like in math, if `x=5`, then `x+2` is 7. You can also store turtle objects in a variable.
 ```python
